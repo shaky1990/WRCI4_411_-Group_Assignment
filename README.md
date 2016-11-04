@@ -1,13 +1,13 @@
 # WRCI4_411_-Group_Assignment
 
-Welcome!
+## Welcome!
 
 Folder: Assignment Documents
 		-Contains all assignment relevant reading work, including the original project document
 Folder: WRCI411
 		-Contains project files
 			-Folder: libs
-				-Contains all libraries used in the project, including the motionSimulator
+				-Contains all libraries used in the project, including the motionSimulator.jar
 			-Folder: src
 				-Contains other folders and all .java files for the project
 Coding Conventions:
