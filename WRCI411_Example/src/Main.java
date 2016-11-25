@@ -18,7 +18,7 @@ public class Main {
         initState = new State(0,0,0);
 
         //Initialize Reader class and pass through file to be read
-        Reader reader = new Reader("C:\\Users\\mrads\\Documents\\GitHub\\WRCI4_411_-Group_Assignment\\WRCI411\\data\\example.csv");
+        Reader reader = new Reader("C:\\Users\\shaks\\Documents\\GitHub\\WRCI4_411_-Group_Assignment\\WRCI411_Example\\data\\example.csv");
         leftMotorList = reader.getLeftMotorList();
         rightMotorList = reader.getRightMotorList();
         timeList = reader.getTimeList();
